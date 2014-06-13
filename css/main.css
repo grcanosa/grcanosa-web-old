@@ -925,7 +925,7 @@ h2.resp-accordion:hover {
     height: 456px;
 }
 #profile .cycle-slideshow img {
-    width: 100%;
+    height: 100%;
 }
 .bottom-p .panel-body {
     padding: 15px;
@@ -1450,7 +1450,7 @@ ul.about {
     top: 0;
     left: 0;
     font-size: 11px;
-    color: #fff;
+    color: #ffffff;
     text-transform: capitalize;
 }
 .skillbar-title span {
@@ -2962,8 +2962,10 @@ li h6{
 #print,
 #downlowd {
     display: block;
-    padding: 17px !important;
-    margin: 0;
+    font-size:15px;
+    color:#ffffff;
+    padding: 0px 17px 0px 17px !important;
+    margin: 0px;
     cursor: pointer;
     float: left;
     text-align: center;
